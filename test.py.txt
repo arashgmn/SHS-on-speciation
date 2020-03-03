@@ -1,3 +1,0 @@
-import numpt as np
-
-print('hello world!')
